@@ -6,7 +6,8 @@ var t_award = {
 	users : [
 // Clan list
 	[3704867,
-	"Highly Trusted","http://i1279.photobucket.com/albums/y527/Inhaps/SM%20badges/highlytrusted01_zpsbb80c94e.png",
+	"Highly Trusted",
+	"http://i1279.photobucket.com/albums/y527/Inhaps/SM%20badges/highlytrusted01_zpsbb80c94e.png",
 	"Highly trusted coin swapper",
 	"June 03/2014"],
 		
@@ -58,5 +59,5 @@ var t_award = {
 	"Award Description",
 	"Date award was given"]
 End of template*/
-]}
+]};
 //]]>
